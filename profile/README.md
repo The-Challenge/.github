@@ -7,7 +7,7 @@ Welcome to the official private space for our organization!
 - @Rines12 – Backend JAVA
 - @blerona-abdushi – Frontend
  - @Luandrit – Frontend
-- @leonarddani – DevOps
+- @leonarddani  – Team Lead's sidekick
 
 
 ## 🛠 Internal Guidelines
